@@ -1,0 +1,13 @@
+C:\Users\S_Stanford\source\repos\BinaryAddition\BinaryAddition\bin\Debug\netcoreapp3.1\BinaryAddition.exe
+C:\Users\S_Stanford\source\repos\BinaryAddition\BinaryAddition\bin\Debug\netcoreapp3.1\BinaryAddition.deps.json
+C:\Users\S_Stanford\source\repos\BinaryAddition\BinaryAddition\bin\Debug\netcoreapp3.1\BinaryAddition.runtimeconfig.json
+C:\Users\S_Stanford\source\repos\BinaryAddition\BinaryAddition\bin\Debug\netcoreapp3.1\BinaryAddition.runtimeconfig.dev.json
+C:\Users\S_Stanford\source\repos\BinaryAddition\BinaryAddition\bin\Debug\netcoreapp3.1\BinaryAddition.dll
+C:\Users\S_Stanford\source\repos\BinaryAddition\BinaryAddition\bin\Debug\netcoreapp3.1\BinaryAddition.pdb
+C:\Users\S_Stanford\source\repos\BinaryAddition\BinaryAddition\obj\Debug\netcoreapp3.1\BinaryAddition.csprojAssemblyReference.cache
+C:\Users\S_Stanford\source\repos\BinaryAddition\BinaryAddition\obj\Debug\netcoreapp3.1\BinaryAddition.AssemblyInfoInputs.cache
+C:\Users\S_Stanford\source\repos\BinaryAddition\BinaryAddition\obj\Debug\netcoreapp3.1\BinaryAddition.AssemblyInfo.cs
+C:\Users\S_Stanford\source\repos\BinaryAddition\BinaryAddition\obj\Debug\netcoreapp3.1\BinaryAddition.csproj.CoreCompileInputs.cache
+C:\Users\S_Stanford\source\repos\BinaryAddition\BinaryAddition\obj\Debug\netcoreapp3.1\BinaryAddition.dll
+C:\Users\S_Stanford\source\repos\BinaryAddition\BinaryAddition\obj\Debug\netcoreapp3.1\BinaryAddition.pdb
+C:\Users\S_Stanford\source\repos\BinaryAddition\BinaryAddition\obj\Debug\netcoreapp3.1\BinaryAddition.genruntimeconfig.cache
